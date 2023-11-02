@@ -21,9 +21,9 @@
 <p align="center">
   <!-- Introduction -->
   <em>
-    I am a high school student from Australia 🌍. <br>
+    I am a high school (17) student from Australia 🌍. <br>
     I'm interested in electronics and currently learning Software development. <br>
-    I love to work on python and c applications.
+    I love to work on Python and C applications.
   </em>
 </p>
 
