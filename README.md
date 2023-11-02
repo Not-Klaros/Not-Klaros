@@ -46,15 +46,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CptDarkrex&show_icons=true&theme=algolia" alt="GitHub Stats">
-</p>
-
-<!-- Most Used Languages Card -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CptDarkrex&layout=compact&theme=algolia" alt="Most Used Languages">
-</p>
-
-<!-- GitHub Streak section -->
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CptDarkrex&theme=algolia" alt="GitHub Streak">
 </p>
 
