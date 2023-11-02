@@ -3,7 +3,7 @@
   <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image">
 </p>
 
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi there 👋, I'm Carlos</h1>
 
 <p align="center">
   <!-- Social badges -->
@@ -21,45 +21,41 @@
 <p align="center">
   <!-- Introduction -->
   <em>
-    A passionate [Your Profession] from [Your Location] 🌍. <br>
-    I'm interested in [Your Areas of Interest] and currently learning [What You're Learning]. <br>
-    I love to work on [Types of Projects You Work On].
+    I am a high school student from Australia 🌍. <br>
+    I'm interested in electronics and currently learning Software development. <br>
+    I love to work on python and c applications.
   </em>
 </p>
 
 <!-- About Me section -->
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **[Your Current Project]**
-- 🌱 I’m currently learning **[New Technology/Skill You're Learning]**
-- 👯 I’m looking to collaborate on **[Types of Projects or Technologies]**
-- 🤔 I’m looking for help with **[Something You Need Help With]**
-- 💬 Ask me about **[Topics You Can Help With]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Interesting Fact About You]**
+- 🔭 I’m currently working on **Marauder for t-display esp32 s3**
+- 🌱 I’m currently learning **C, C#, C++**
+- 💬 Ask me about **Python applications**
+- 📫 How to reach me: **rodrigcp22@outlook.com**
 
 <!-- Skills section -->
 ## 🛠 Skills
-- 🌐 Web Development: **HTML, CSS, JavaScript, React**
-- 🗃️ Backend: **Node.js, Express.js**
-- 📦 Databases: **MongoDB, SQL**
-- 🛢️ DevOps: **Docker, AWS**
-- 🔧 Tools: **Git, GitHub, VS Code**
-- 🖌️ Design: **Adobe Photoshop, Figma**
+- 🌐 Web Development: **HTML, CSS**
+- 🗃️ Backend: **python, c#**
+- 📦 Databases: **MariaDB, PostgreSQL**
+- 🛢️ DevOps: **Docker**
+- 🔧 Tools: **Git, GitHub, Gitlab, Visual Studio, Pycharm**
 
 <!-- GitHub Stats section -->
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=algolia" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=CptDarkrex&show_icons=true&theme=algolia" alt="GitHub Stats">
 </p>
 
 <!-- Most Used Languages Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=algolia" alt="Most Used Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CptDarkrex&layout=compact&theme=algolia" alt="Most Used Languages">
 </p>
 
 <!-- GitHub Streak section -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=algolia" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CptDarkrex&theme=algolia" alt="GitHub Streak">
 </p>
 
 <!-- Projects section -->
