@@ -22,14 +22,14 @@
   <!-- Introduction -->
   <em>
     I am a high school (17) student from Australia 🌍. <br>
-    I'm interested in electronics and currently learning Software development. <br>
+    I'm interested in electronics and software engineering. <br>
     I love to work on Python and C applications.
   </em>
 </p>
 
 <!-- About Me section -->
 ## 👨‍💻 About Me
-- 🔭 I’m currently working on **Marauder for t-display esp32 s3**
+- 🔭 I’m currently working on **BucketShark (Budgeting App)**
 - 🌱 I’m currently learning **C, C#, C++**
 - 💬 Ask me about **Python applications**
 - 📫 How to reach me: **rodrigcp22@outlook.com**
@@ -38,7 +38,7 @@
 ## 🛠 Skills
 - 🌐 Web Development: **HTML, CSS**
 - 🗃️ Backend: **python, c#**
-- 📦 Databases: **MariaDB, PostgreSQL**
+- 📦 Databases: **MariaDB, PostgreSQL, MongoDB**
 - 🛢️ DevOps: **Docker**
 - 🔧 Tools: **Git, GitHub, Gitlab, Visual Studio, Pycharm**
 
