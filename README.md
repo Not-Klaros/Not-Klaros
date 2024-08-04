@@ -7,9 +7,7 @@
 
 <p align="center">
   <!-- Social badges -->
-  <a href="YOUR_TWITTER_PROFILE_LINK">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Rodrigcp22?style=social">
-  </a>
+  
   <a href="https://www.linkedin.com/in/carlos-rodriguez-15862b2aa/">
     <img alt="LinkedIn Follow" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin">
   </a>
