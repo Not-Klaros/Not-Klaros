@@ -1,29 +1,4 @@
-<!-- Banner image -->
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner Image">
-</p>
 
-<h1 align="center">Hi there 👋, I'm Carlos</h1>
-
-<p align="center">
-  <!-- Social badges -->
-  
-  <a href="https://www.linkedin.com/in/carlos-rodriguez-15862b2aa/">
-    <img alt="LinkedIn Follow" src="https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin">
-  </a>
-  <a href="YOUR_MEDIUM_PROFILE_LINK">
-    <img alt="Medium Follow" src="https://img.shields.io/badge/-Medium-black?style=social&logo=medium">
-  </a>
-</p>
-
-<p align="center">
-  <!-- Introduction -->
-  <em>
-    I am a high school (17) student from Australia 🌍. <br>
-    I'm interested in electronics and software engineering. <br>
-    I love to work on Python and C applications.
-  </em>
-</p>
 
 <!-- About Me section -->
 ## 👨‍💻 About Me
