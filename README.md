@@ -1,35 +1,43 @@
-
-
-<!-- About Me section -->
-## 👨‍💻 About Me
-- 🔭 I’m currently working on **BucketShark (Budgeting App)**
-- 🌱 I’m currently learning **C, C#, C++**
-- 💬 Ask me about **Python applications**
-- 📫 How to reach me: **rodrigcp22@outlook.com**
-
-<!-- Skills section -->
-## 🛠 Skills
-- 🌐 Web Development: **HTML, CSS**
-- 🗃️ Backend: **python, c#**
-- 📦 Databases: **MariaDB, PostgreSQL, MongoDB**
-- 🛢️ DevOps: **Docker**
-- 🔧 Tools: **Git, GitHub, Gitlab, Visual Studio, Pycharm**
-
-<!-- GitHub Stats section -->
-## 📊 GitHub Stats
+<!-- HEADER -->
+<h1 align="center">👋 Hey there, I'm Carlos!</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CptDarkrex&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" width="32%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CptDarkrex&theme=dracula&hide_border=false" width="35%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CptDarkrex&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact" width="25%">
+  <i>Computer Science student • Developer • Hardware tinkerer</i>
 </p>
 
-<!-- Projects section -->
-## 🚀 Projects
-<!-- Add your projects here with the format:
-- [Project Name](Link to Project) - Brief Description
--->
+---
 
-<!-- Footer -->
+<!-- ABOUT ME -->
+## 👨‍💻 About Me
+
+- 🔭 I’m currently working on **embedded systems, drones, and full-stack web apps**
+- 🧠 Learning **cybersecurity, machine learning, and reverse engineering**
+- ⚙️ Favorite tools: `C/C++`, `Python`, `JavaScript`, `ESP32`, `Linux`, `Django`, `React`
+- 💾 Exploring **low-level systems**, custom hardware builds, and automation
+
+---
+
+<!-- PROJECTS -->
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| `BucketShark` | Budget & transaction manager with real-time sync | React, Vite, Django |
+| `Arbitrary-USB` | Emulates a USB keyboard and mass storage | ESP-IDF, C |
+| `fixed-wing-uav` | DIY surveillance drone with custom 3D-printed airframe | Fusion 360, ArduPilot, telemetry stack |
+
+---
+
+<!-- CONTACT -->
+## 📫 Contact Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-rodriguez-15862b2aa/)
+- 📧 Email: rodrigcp22@outlook.com
+- 🌐 Personal site or blog: _coming soon?_
+
+---
+
+<!-- FOOTER -->
 <p align="center">
-  <img src="YOUR_FOOTER_IMAGE_URL" alt="Footer Image">
+  <sub>Built with ❤️ by Carlos • Powered by curiosity and coffee ☕</sub><br>
+  <sup>Last updated: June 2025</sup>
 </p>
