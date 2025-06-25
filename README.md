@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hey there, I'm Carlos!</h1>
+<h1 align="center">👋 Hello There</h1>
 <p align="center">
   <i>Computer Science student • Developer • Hardware tinkerer</i>
 </p>
