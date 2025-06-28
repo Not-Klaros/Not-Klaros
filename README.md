@@ -16,6 +16,17 @@
 
 ---
 
+<!-- GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=not-klaros&theme=onedark&no-bg=true&no-frame=true&margin-w=12&column=5&rank=-C,-?" alt="GitHub trophies" />
+  </a>
+</p>
+
+---
+
 <!-- PROJECTS -->
 ## 🚀 Featured Projects
 
