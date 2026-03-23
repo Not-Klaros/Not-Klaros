@@ -11,7 +11,8 @@
 I’m a Computer Engineering student at the University of Wollongong with a focus on building real systems that actually run in the wild. Most of my work sits at the intersection of backend engineering, embedded systems, and full-stack development. I’m currently developing HelmHound, a competitive platform that brings together automation, secure transactions, and real-time systems. at the same time developing an advanced budgeting application to forecast bank account status and balance using AI and advance budgeting techniques. I prefer practical work over theory—designing, testing, breaking, and refining until it holds up under pressure.
 <br/><br/>
 as for electronics, vaguely into creating my own circuit boards for especialised cases. generally focused on creating firmware for ESP32s, so don't expect much. 
-
+<br/>
+<p>evangelion on top</p>
 <div align="center"> «« • ————–——— ٠ ⌘ ٠ —–—————— • »» </div>
 
 <p> 
@@ -32,7 +33,7 @@ $${\color{#00FF7F}Kaboom!}$$
 
 	
 </div>
-<p>evangelion on top</p>
+
 
 <div style="display:flex;flex-wrap:wrap">
 <img src="https://synthesis0x42.digital/88x31/lain.gif" alt="lain">
