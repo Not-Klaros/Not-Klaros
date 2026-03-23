@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&vCenter=true&width=435&lines=~%2FKlaros)](https://github.com/Not-Klaros) <blockquote>from embedded hardware to full-stack systems — I alone am the honored one.</blockquote>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&vCenter=true&width=435&lines=~%2FKlaros)](https://github.com/Not-Klaros) <blockquote>from embedded hardware to full-stack systems — I alone am the honored one. -JJK or sum</blockquote>
 
 <div align="center"> «« • ————–——— ٠ ⌘ ٠ —–—————— • »» </div>
 <p>
