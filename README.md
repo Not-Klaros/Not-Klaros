@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&vCenter=true&width=435&lines=~%2FKlaros)](https://github.com/Not-Klaros) <blockquote>the first thing you should know about me is that I like software development.  <br/>
-the second thing you should know about me is that I <b><i>really</i></b> like software development.</blockquote>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF7F&vCenter=true&width=435&lines=~%2FKlaros)](https://github.com/Not-Klaros) <blockquote>from embedded hardware to full-stack systems — I alone am the honored one.</blockquote>
 
-<div align="center">· • ————–——— ٠ ⌘ ٠ —–—————— • ·</div>
+<div align="center"> «« • ————–——— ٠ ⌘ ٠ —–—————— • »» </div>
 <p>
   
 </p>
@@ -12,10 +11,8 @@ the second thing you should know about me is that I <b><i>really</i></b> like so
 I’m a Computer Engineering student at the University of Wollongong with a focus on building real systems that actually run in the wild. Most of my work sits at the intersection of backend engineering, embedded systems, and full-stack development. I’m currently developing HelmHound, a competitive platform that brings together automation, secure transactions, and real-time systems. at the same time developing an advanced budgeting application to forecast bank account status and balance using AI and advance budgeting techniques. I prefer practical work over theory—designing, testing, breaking, and refining until it holds up under pressure.
 <br/><br/>
 as for electronics, vaguely into creating my own circuit boards for especialised cases. generally focused on creating firmware for ESP32s, so don't expect much. 
-<p>
-  please initiate contact via university email, cprr882@uowmail.edu.au. discord is available on request if i know you, which is the preferred mode of communication. would love to chat, i like connecting with people.
-</p>
-<div align="center">· • ————–——— ٠ ⌘ ٠ —–—————— • ·</div>
+
+<div align="center"> «« • ————–——— ٠ ⌘ ٠ —–—————— • »» </div>
 
 <p> 
 
@@ -35,7 +32,7 @@ $${\color{#00FF7F}Kaboom!}$$
 
 	
 </div>
-<p></p>
+<p>evangelion on top</p>
 
 <div style="display:flex;flex-wrap:wrap">
 <img src="https://synthesis0x42.digital/88x31/lain.gif" alt="lain">
