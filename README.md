@@ -17,8 +17,7 @@ i like understanding how things work, usually by building them myself.
 
 custom electronics, microcontrollers, robotics, self-hosting, and whatever else catches my interest.
 
-mostly building. occasionally finishing.
-
+mostly building.
 ---
 
 *whatever happens, happens.*
